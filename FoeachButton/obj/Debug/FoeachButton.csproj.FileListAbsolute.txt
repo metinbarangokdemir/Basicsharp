@@ -1,0 +1,11 @@
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\bin\Debug\FoeachButton.exe.config
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\bin\Debug\FoeachButton.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\bin\Debug\FoeachButton.pdb
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\obj\Debug\FoeachButton.csproj.AssemblyReference.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\obj\Debug\FoeachButton.csproj.SuggestedBindingRedirects.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\obj\Debug\FoeachButton.Form1.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\obj\Debug\FoeachButton.Properties.Resources.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\obj\Debug\FoeachButton.csproj.GenerateResource.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\obj\Debug\FoeachButton.csproj.CoreCompileInputs.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\obj\Debug\FoeachButton.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\FoeachButton\obj\Debug\FoeachButton.pdb

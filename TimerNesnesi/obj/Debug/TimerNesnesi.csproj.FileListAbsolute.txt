@@ -1,0 +1,11 @@
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\bin\Debug\TimerNesnesi.exe.config
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\bin\Debug\TimerNesnesi.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\bin\Debug\TimerNesnesi.pdb
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\obj\Debug\TimerNesnesi.csproj.AssemblyReference.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\obj\Debug\TimerNesnesi.csproj.SuggestedBindingRedirects.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\obj\Debug\TimerNesnesi.Form1.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\obj\Debug\TimerNesnesi.Properties.Resources.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\obj\Debug\TimerNesnesi.csproj.GenerateResource.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\obj\Debug\TimerNesnesi.csproj.CoreCompileInputs.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\obj\Debug\TimerNesnesi.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\TimerNesnesi\obj\Debug\TimerNesnesi.pdb

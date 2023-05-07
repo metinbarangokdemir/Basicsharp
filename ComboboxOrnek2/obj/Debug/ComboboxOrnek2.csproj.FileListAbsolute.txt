@@ -1,0 +1,11 @@
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\bin\Debug\ComboboxOrnek2.exe.config
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\bin\Debug\ComboboxOrnek2.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\bin\Debug\ComboboxOrnek2.pdb
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\obj\Debug\ComboboxOrnek2.csproj.AssemblyReference.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\obj\Debug\ComboboxOrnek2.csproj.SuggestedBindingRedirects.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\obj\Debug\ComboboxOrnek2.Form1.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\obj\Debug\ComboboxOrnek2.Properties.Resources.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\obj\Debug\ComboboxOrnek2.csproj.GenerateResource.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\obj\Debug\ComboboxOrnek2.csproj.CoreCompileInputs.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\obj\Debug\ComboboxOrnek2.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ComboboxOrnek2\obj\Debug\ComboboxOrnek2.pdb

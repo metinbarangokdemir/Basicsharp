@@ -1,0 +1,11 @@
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\bin\Debug\ChechBoxOrnegi1.exe.config
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\bin\Debug\ChechBoxOrnegi1.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\bin\Debug\ChechBoxOrnegi1.pdb
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\obj\Debug\ChechBoxOrnegi1.csproj.AssemblyReference.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\obj\Debug\ChechBoxOrnegi1.csproj.SuggestedBindingRedirects.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\obj\Debug\ChechBoxOrnegi1.Form1.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\obj\Debug\ChechBoxOrnegi1.Properties.Resources.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\obj\Debug\ChechBoxOrnegi1.csproj.GenerateResource.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\obj\Debug\ChechBoxOrnegi1.csproj.CoreCompileInputs.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\obj\Debug\ChechBoxOrnegi1.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\ChechBoxOrnegi1\obj\Debug\ChechBoxOrnegi1.pdb

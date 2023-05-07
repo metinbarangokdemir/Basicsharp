@@ -1,0 +1,11 @@
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\bin\Debug\Nesneler2.exe.config
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\bin\Debug\Nesneler2.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\bin\Debug\Nesneler2.pdb
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\obj\Debug\Nesneler2.csproj.AssemblyReference.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\obj\Debug\Nesneler2.csproj.SuggestedBindingRedirects.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\obj\Debug\Nesneler2.Form1.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\obj\Debug\Nesneler2.Properties.Resources.resources
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\obj\Debug\Nesneler2.csproj.GenerateResource.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\obj\Debug\Nesneler2.csproj.CoreCompileInputs.cache
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\obj\Debug\Nesneler2.exe
+C:\COBAN\19Subat2023\19Subat2023Ornekler\Nesneler2\obj\Debug\Nesneler2.pdb
